@@ -43,6 +43,8 @@ This project contains two main parts:
 * Left side: Original uploaded image
 * Right side: Image with detected face and emotion label
 * Labels include bounding box + confidence
+<img width="1920" height="1020" alt="Screenshot 2025-07-22 233104" src="https://github.com/user-attachments/assets/7d78aa0f-fb9f-4e0d-9c6b-99cfba26bfe8" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/61c29531-66c9-43c5-a08e-392b3f779c34" />
 
 ---
 
