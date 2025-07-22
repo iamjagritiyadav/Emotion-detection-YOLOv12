@@ -1,7 +1,3 @@
-Bilkul! Yahaan hai ek **simple, point-to-point** style README file — clean, understandable, and directly describing what you did:
-
----
-
 # Face and Emotion Detection using YOLOv12
 
 This project contains two main parts:
