@@ -24,7 +24,6 @@ This project contains two main parts:
   * Upload an image
   * Detect faces and emotions
   * View bounding boxes with confidence and labels
-* Webcam feature has been removed to keep it simple and image-focused.
 * The app uses **OpenCV**, **Pillow**, and **Ultralytics YOLO**.
 
 ---
