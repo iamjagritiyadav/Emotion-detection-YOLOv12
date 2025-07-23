@@ -1,4 +1,4 @@
-# Face and Emotion Detection using YOLOv12
+# Emotion Detection using YOLOv12
 
 This project contains two main parts:
 
