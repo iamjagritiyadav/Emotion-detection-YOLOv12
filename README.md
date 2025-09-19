@@ -19,7 +19,6 @@ This project contains two main parts:
 ## 2️⃣ Web App (`app.py`)
 
 * The `app.py` file is a **Streamlit app** that loads the trained `face.pt` model.
-* http://localhost:8501/
 * It allows users to:
 
   * Upload an image
